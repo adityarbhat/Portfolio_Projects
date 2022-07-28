@@ -1,7 +1,7 @@
 # Portfolio Projects
 This repo consists of all the projects completed as a part of the Post Graduate Program in Data Science and Data Management Systems professional certification from University of Texas at Austin.
 
-## Python-FoodHub Case Study
+## Python - FoodHub Case Study
 
 ### Project Description
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. 
