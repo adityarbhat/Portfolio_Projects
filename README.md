@@ -21,3 +21,14 @@ Then, use the data to answer the questions posed and create a Quarterly Business
 
 ### Skills and Tools
 MySQL, Normalizing Data Schemas with DDL, Querying the Data with DML, Tables Views and Functions, Automating data transformation with Stored Procedures, Creating Business Presentations
+
+## Tableau - Gamers Arena Dashboard
+
+### Project Description
+Gamers' Arena is a website that provides information about video games. As an analytics lead, you must design an interactive dashboard that helps the director of the company make a decision on a new sales model (a subscription model) that will attract more gamers to our platform. In order to answer these questions, a dashboard needs to be created using Tableau.
+
+###  Link to the dashboard on tableau public
+<a href='https://public.tableau.com/shared/BJN9W2Y2T?:display_count=n&:origin=viz_share_link'> Dashboard <a>
+
+### Skills and Tools
+Tableau, Stories, Dashboarding, Views, Storyboarding, KPI Controls, Blends
