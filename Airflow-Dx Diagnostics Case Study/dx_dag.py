@@ -31,7 +31,7 @@ file_name = os.listdir(FILE_PATH_INPUT)[0]
 df = pd.read_csv(FILE_PATH_INPUT + file_name)
 
 # Slack webhook link
-slack_webhook = 'https://hooks.slack.com/services/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'
+slack_webhook = 'xxxxxxxx'
 
 # --------------------------------
 # FUNCTION DEFINITIONS
